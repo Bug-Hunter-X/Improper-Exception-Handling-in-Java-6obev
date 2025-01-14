@@ -1,0 +1,1 @@
+This repository showcases an uncommon bug in Java: Insufficient exception handling. The code attempts to divide by zero, which triggers an ArithmeticException. The exception is caught, but the response is suboptimal.  The improved version demonstrates proper exception handling strategies.
